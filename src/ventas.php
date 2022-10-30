@@ -13,7 +13,7 @@ include_once "includes/header.php";
 <div class="row">
     <div class="col-lg-12">
         <div class="form-group">
-            <h4 class="text-center">Datos del Cliente</h4>
+            <h4 class="text-center">Datos del Socio</h4>
         </div>
         <div class="card">
             <div class="card-body">
